@@ -106,6 +106,6 @@ ssb   rsa3072 2021-04-06 [E] [expires: 2026-04-05]
 ```
 
 2.4 Create a github/gitlab/bitbucket/yourfavorite vcs to store the secrets
-[Image of repo-creation](images/my-secrets-repo∫.png)
+[Image of repo-creation](images/my-secrets-repo.png)
 2.5 
 
